@@ -1,0 +1,2 @@
+Ma saan GitHubi edaspidi kasutada õppeks: hoida oma õppeprojekte, jälgida muudatusi ülesannetes ja töötada nendega korralikumalt. 
+Lisaks saan ma õppida teistelt, uurides nende koodi ja harjutades koostööpõhist arendust.
