@@ -1,0 +1,20 @@
+Mis on Github?
+GitHub on failide ja koodi jagamise teenus. See võimaldab erinevatel inimestel projektide kallal ühiselt töötada.
+GitHubi kasutatakse laialdaselt versioonikontrolliks. See aitab jälgida muudatusi koodis ja hallata failide erinevaid versioone.
+Teenust on eriti kasulik kasutada siis, kui projekti kallal töötab mitu inimest. Iga osaleja saab teha muudatusi ilma teiste tööd segamata.
+Näide kasutamisest: arendajate meeskond loob veebisaiti. Kõik peavad samaaegselt koodi uuendama ning GitHub aitab seda teha konfliktideta.
+GitHub pakub tsentraliseeritud hoidlat (repositooriumi). Sinna saavad osalejad projekti faile üles laadida, neid redigeerida ja hallata.
+
+
+Miks on Github nii populaarne?
+Paljud küsivad, miks mitte kasutada Dropboxi või muud pilvepõhist süsteemi. GitHub pakub sellega võrreldes eeliseid, eriti koostöös mitme arendajaga.
+Kui mitu arendajat töötavad sama faili kallal pilveteenuses, siis eelis on sellel, kes faili esimesena salvestab.
+GitHubis seda probleemi ei ole. GitHub dokumenteerib kõik muudatused ja kuvab need organiseeritult, et vältida segadust.
+GitHubi tsentraliseeritud hoidla muudab sama koodiga töötamise lihtsaks ja aitab vältida arusaamatusi.
+GitHub on keskne hoidla, samal ajal kui Git on tööriist kohaliku hoidla loomiseks. Need kaks aetakse sageli segi, kuid tegelikult on neil erinevad rollid.
+Git on versioonikontrolli tööriist, mis võimaldab tuua andmeid keskserverist või neid sinna üles laadida.
+GitHub on versioonikontrolli koostööpõhine majutamisplatvorm, mis võimaldab hoida keskhoidlat kaugserveris. GitHub on ettevõte, mis seda teenust pakub.
+GitHub muudab Giti kasutamise lihtsamaks mitmel moel:
+Pakub mugavat ja visuaalselt ilusat liidest projektide jälgimiseks ja haldamiseks.
+Võimaldab registreerunul luua tugeva profiili ja ühenduda teiste spetsialistidega.
+Seetõttu sobib GitHub suurepäraselt alustamiseks ja lihtsustab versioonikontrolli kasutamist nii algajatele kui ka kogenud arendajatele.
